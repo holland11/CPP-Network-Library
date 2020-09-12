@@ -1,0 +1,7 @@
+name "Patrick Holland"
+student_id "V00878409"
+email "patrickeholland@gmail.com"
+term "2020-05"
+course "SENG475"
+section "T01"
+assignment "cpp_project"
